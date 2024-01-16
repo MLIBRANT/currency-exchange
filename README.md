@@ -19,6 +19,6 @@ For the latest and most accurate currency exchange rates, you can check Google's
 Footer
 The webpage is concluded with a link prompting users to check the current currency exchange rates on Google.
 
-Feel free to explore the tool and effortlessly convert your currency!
+## Feel free to explore the tool and effortlessly convert your currency!
 
 Link to the website: https://mlibrant.github.io/currency-exchange/ 

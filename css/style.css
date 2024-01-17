@@ -13,4 +13,9 @@ html {
     line-height: 1.5;
     padding: 2px;
     font-size: 18px;
+    background-image: url("../images/background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 350px;
+    
 }

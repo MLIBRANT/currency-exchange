@@ -6,15 +6,11 @@ html {
     box-sizing: inherit;
 }
 
-.body{
+.body {
     font-family: 'Lato', sans-serif;
-    margin:auto;
+    margin: auto;
     max-width: 700px;
-    line-height: 1.5;  
-    padding: 2px; 
+    line-height: 1.5;
+    padding: 2px;
     font-size: 18px;
-}
-
-.fieldset{
-
 }
